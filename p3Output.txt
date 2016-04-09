@@ -1,0 +1,15 @@
+Time  Person               Event          
+-----------------------------------          
+0     Fred                 Arrive         
+5     Daphne               Arrive         
+8     Velma                Arrive         
+9     Daphne               Depart         
+10    Fred                 Depart         
+14    Shaggy               Arrive         
+14    Velma                Depart         
+20    Scooby               Arrive         
+22    Scooby               Depart         
+23    Shaggy               Depart         
+25    Scrappy              Arrive         
+26    Scrappy              Depart         
+26    SIMULATION           TERMINATES     

@@ -1,0 +1,6 @@
+Fred   10 5
+Daphne 4 3
+Velma  6 6
+Shaggy 9 6
+Scooby 2 5
+Scrappy 1 3
